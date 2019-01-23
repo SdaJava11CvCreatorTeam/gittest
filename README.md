@@ -1,1 +1,1 @@
-Mateusz umie hakować tylko na http://hackertyper.com/ a Łukasz oooo to dopiero prawdziwy hacker!!!
+Mateusz umie hakować nie tylko na http://hackertyper.com/ a Łukasz oooo to dopiero prawdziwy hacker - potrafi pushować na gita!!!
