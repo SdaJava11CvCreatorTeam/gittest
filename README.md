@@ -1,3 +1,1 @@
-### Łukasz to najleprzy maszynista, a mateusz zbiera bootstrapy w domu :D
-### to jest super readme!!! best ever!!! 
-### totalnie!!!!!!
+Mateusz umie hakować tylko na http://hackertyper.com/ a Łukasz oooo to dopiero prawdziwy hacker!!!
