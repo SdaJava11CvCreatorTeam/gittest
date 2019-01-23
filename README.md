@@ -1,1 +1,3 @@
-Mateusz umie hakować nie tylko na http://hackertyper.com/ a Łukasz oooo to dopiero prawdziwy hacker - potrafi pushować na gita!!!
+### README for gittest ###
+1. learn git 
+2. only in bash
