@@ -1,3 +1,4 @@
-### README for gittest ###
-1. learn git 
+halo halo , tylko porządnie to zmerguj
 2. only in bash
+trololo
+1. learn git
